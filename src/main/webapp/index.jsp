@@ -10,7 +10,7 @@
 <head>
     <base href="<%=basePath%>" />
     <meta charset="UTF-8">
-    <title>学生信息管理系统</title>
+    <title>学生管理系统</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="Access-Control-Allow-Origin" content="*">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -52,7 +52,7 @@
         <div class="layui-form login-form">
             <form class="layui-form" action="" lay-filter="loginForm">
                 <div class="layui-form-item logo-title">
-                    <h1>学生信息管理系统登录</h1>
+                    <h1>学生管理系统登录</h1>
                 </div>
                 <%--用户名--%>
                 <div class="layui-form-item">
