@@ -1,0 +1,117 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "manager/manager_welcome.jsp"
+  },
+  "logoInfo": {
+    "title": "学生管理系统",
+    "image": "layuimini/images/xiaohui.png",
+    "href": "manager/manager_index.jsp"
+  },
+  "menuInfo": [
+    {
+      "title": "管理1",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "基本管理",
+          "href": "",
+          "icon": "fa fa-home",
+          "target": "_self",
+          "child": [
+            {
+              "title": "学生管理",
+              "href": "manager/student_list.jsp",
+              "icon": "fa fa-pencil",
+              "target": "_self"
+            },
+            {
+              "title": "教师管理",
+              "href": "manager/teacher_list.jsp",
+              "icon": "fa fa-briefcase",
+              "target": "_self"
+            },
+            {
+              "title": "班级管理",
+              "href": "manager/clazz_list.jsp",
+              "icon": "fa fa-window-maximize",
+              "target": "_self"
+            },
+            {
+              "title": "专业管理",
+              "href": "manager/major_list.jsp",
+              "icon": "fa fa-leaf",
+              "target": "_self"
+            },
+            {
+              "title": "教室管理",
+              "href": "manager/room_list.jsp",
+              "icon": "fa fa-bank",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "教务管理",
+          "href": "",
+          "icon": "fa fa-mortar-board",
+          "target": "_self",
+          "child": [
+            {
+              "title": "课程管理",
+              "href": "manager/course_list.jsp",
+              "icon": "fa fa-legal",
+              "target": "_self"
+            },
+            {
+              "title": "开课管理",
+              "href": "manager/open_course_list.jsp",
+              "icon": "fa fa-calendar",
+              "target": "_self"
+            },
+            {
+              "title": "课表展示",
+              "href": "manager/course_table_show.jsp",
+              "icon": "fa fa-table",
+              "target": "_self"
+            },
+            {
+              "title": "审批管理",
+              "href": "manager/approval_list.jsp",
+              "icon": "fa fa-book",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "其他管理",
+          "href": "",
+          "icon": "fa fa-navicon",
+          "target": "_self",
+          "child": [
+            {
+              "title": "修改密码",
+              "href": "common/password.jsp",
+              "icon": "fa fa-key",
+              "target": "_self"
+            },
+            {
+              "title": "管理员管理",
+              "href": "manager/manager_list.jsp",
+              "icon": "fa fa-cloud",
+              "target": "_self"
+            },
+            {
+              "title": "公告管理",
+              "href": "manager/article_list.jsp",
+              "icon": "fa fa-bullhorn",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
