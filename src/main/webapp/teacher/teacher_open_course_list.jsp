@@ -26,7 +26,7 @@
         <%--头部工具栏--%>
         <script type="text/html" id="toolbarDemo">
             <div class="layui-btn-container">
-                <button class="layui-btn layui-btn-sm layui-btn-warm data-plan-btn" lay-event="plan"> 查看排课 </button>
+<%--                <button class="layui-btn layui-btn-sm layui-btn-warm data-plan-btn" lay-event="plan"> 查看排课 </button>--%>
                 <button class="layui-btn layui-btn-sm layui-btn-normal data-plan-btn" lay-event="score"> 录入成绩 </button>
             </div>
         </script>

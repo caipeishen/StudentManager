@@ -28,6 +28,12 @@
               "target": "_self"
             },
             {
+              "title": "课表查看",
+              "href": "student/student_table_show.jsp",
+              "icon": "fa fa-table",
+              "target": "_self"
+            },
+            {
               "title": "成绩查询",
               "href": "student/student_score.jsp",
               "icon": "fa fa-graduation-cap",
