@@ -196,51 +196,51 @@
                     </div>
                 </div>
                 <%--版本信息--%>
-                <div class="layui-card">
-                    <div class="layui-card-header"><i class="fa fa-fire icon"></i>版本信息</div>
-                    <div class="layui-card-body layui-text">
-                        <table class="layui-table">
-                            <colgroup>
-                                <col width="100">
-                                <col>
-                            </colgroup>
-                            <tbody>
-                            <tr>
-                                <td>项目名称</td>
-                                <td>
-                                    StudentManager学生管理系统 V1.0.1
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>作者</td>
-                                <td>江苏第二师范学院 数学与信息技术学院 王鹏</td>
-                            </tr>
-                            <tr>
-                                <td>演示地址</td>
-                                <td>
-                                    在线演示：<a href="http://47.97.104.230:8098/StudentManager/index.jsp" target="_blank">点击查看</a><br>
-                                    管理员账号：admin       密码：admin<br>
-                                    教师端账号：15001       密码：123456<br>
-                                    学生端账号：2020710001  密码：123456<br>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>下载地址</td>
-                                <td>
-                                    <a href="https://github.com/huanfenz/StudentManager" target="_blank">github</a> / <a href="https://gitee.com/huanfenz/StudentManager" target="_blank">gitee</a><br>
-                                    喜欢此项目的可以给我的GitHub和Gitee加个Star支持一下
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>联系方式</td>
-                                <td>
-                                    QQ 894176237
-                                </td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
+<%--                <div class="layui-card">--%>
+<%--                    <div class="layui-card-header"><i class="fa fa-fire icon"></i>版本信息</div>--%>
+<%--                    <div class="layui-card-body layui-text">--%>
+<%--                        <table class="layui-table">--%>
+<%--                            <colgroup>--%>
+<%--                                <col width="100">--%>
+<%--                                <col>--%>
+<%--                            </colgroup>--%>
+<%--                            <tbody>--%>
+<%--                            <tr>--%>
+<%--                                <td>项目名称</td>--%>
+<%--                                <td>--%>
+<%--                                    StudentManager学生管理系统 V1.0.1--%>
+<%--                                </td>--%>
+<%--                            </tr>--%>
+<%--                            <tr>--%>
+<%--                                <td>作者</td>--%>
+<%--                                <td>江苏第二师范学院 数学与信息技术学院 王鹏</td>--%>
+<%--                            </tr>--%>
+<%--                            <tr>--%>
+<%--                                <td>演示地址</td>--%>
+<%--                                <td>--%>
+<%--                                    在线演示：<a href="http://47.97.104.230:8098/StudentManager/index.jsp" target="_blank">点击查看</a><br>--%>
+<%--                                    管理员账号：admin       密码：admin<br>--%>
+<%--                                    教师端账号：15001       密码：123456<br>--%>
+<%--                                    学生端账号：2020710001  密码：123456<br>--%>
+<%--                                </td>--%>
+<%--                            </tr>--%>
+<%--                            <tr>--%>
+<%--                                <td>下载地址</td>--%>
+<%--                                <td>--%>
+<%--                                    <a href="https://github.com/huanfenz/StudentManager" target="_blank">github</a> / <a href="https://gitee.com/huanfenz/StudentManager" target="_blank">gitee</a><br>--%>
+<%--                                    喜欢此项目的可以给我的GitHub和Gitee加个Star支持一下--%>
+<%--                                </td>--%>
+<%--                            </tr>--%>
+<%--                            <tr>--%>
+<%--                                <td>联系方式</td>--%>
+<%--                                <td>--%>
+<%--                                    QQ 894176237--%>
+<%--                                </td>--%>
+<%--                            </tr>--%>
+<%--                            </tbody>--%>
+<%--                        </table>--%>
+<%--                    </div>--%>
+<%--                </div>--%>
 
             </div>
         </div>
