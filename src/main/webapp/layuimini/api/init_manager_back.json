@@ -72,6 +72,12 @@
               "target": "_self"
             },
             {
+              "title": "课表展示",
+              "href": "manager/course_table_show.jsp",
+              "icon": "fa fa-table",
+              "target": "_self"
+            },
+            {
               "title": "审批管理",
               "href": "manager/approval_list.jsp",
               "icon": "fa fa-book",
