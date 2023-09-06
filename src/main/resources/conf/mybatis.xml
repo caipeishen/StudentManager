@@ -4,11 +4,14 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 
 <configuration>
+    <!-- 打印查询语句 -->
+    <settings>
+        <setting name="logImpl" value="STDOUT_LOGGING" />
+    </settings>
     <!--设置别名-->
     <typeAliases>
         <package name="com.wangpeng.pojo"/>
     </typeAliases>
-
     <!--设置mapper位置-->
     <mappers>
         <package name="com.wangpeng.dao"/>
