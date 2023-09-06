@@ -10,10 +10,10 @@
     </settings>
     <!--设置别名-->
     <typeAliases>
-        <package name="com.wangpeng.pojo"/>
+        <package name="com.cps.pojo"/>
     </typeAliases>
     <!--设置mapper位置-->
     <mappers>
-        <package name="com.wangpeng.dao"/>
+        <package name="com.cps.dao"/>
     </mappers>
 </configuration>

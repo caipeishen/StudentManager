@@ -53,7 +53,7 @@
     <!--登录过滤器-->
     <filter>
         <filter-name>LoginFilter</filter-name>
-        <filter-class>com.wangpeng.filter.LoginFilter</filter-class>
+        <filter-class>com.cps.filter.LoginFilter</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>LoginFilter</filter-name>
