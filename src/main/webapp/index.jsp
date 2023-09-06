@@ -81,9 +81,9 @@
                         <img id="code_pic" alt="" src="kaptcha.jpg">
                     </div>
                 </div>
-                <div class="layui-form-item">
-                    <input type="checkbox" id="rememberMe" name="rememberMe" value="true" lay-skin="primary" title="记住密码（一周有效）"> <%--选中为true，没选中没有--%>
-                </div>
+<%--                <div class="layui-form-item">--%>
+<%--                    <input type="checkbox" id="rememberMe" name="rememberMe" value="true" lay-skin="primary" title="记住密码（一周有效）"> &lt;%&ndash;选中为true，没选中没有&ndash;%&gt;--%>
+<%--                </div>--%>
                 <div class="layui-form-item">
                     <button class="layui-btn layui-btn layui-btn-normal layui-btn-fluid" lay-submit="" lay-filter="login">登 入</button>
                 </div>
